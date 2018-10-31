@@ -1,14 +1,14 @@
 # DataStructures
 Repo for Daily Data Structures Challenges
 
-### Day One
+## Day One
 
 Add up the numbers in a 2D matrix to get the highest number in a given row, and the specific row or 'iteration' that we get.
 So in our case, of 5 given rows, our largest number is 39, on Row 3. So [39,3] is our given result.
 
-### Day Two
+## Day Two
 
-## Did a pramp interview. This was the Data Structure / Algo question given.
+### Did a pramp interview. This was the Data Structure / Algo question given.
 
 You’re an engineer at a disruptive drone delivery startup and your CTO asks you to come up with an efficient algorithm that calculates the minimum amount of energy required for the company’s drone to complete its flight. You know that the drone burns 1 kWh (kilowatt-hour is an energy unit) for every mile it ascends, and it gains 1 kWh for every mile it descends. Flying sideways neither burns nor adds any energy.
 
@@ -18,7 +18,7 @@ For simplicity, every 3D point will be represented as an integer array whose len
 
 Explain your solution and analyze its time and space complexities.
 
-## Example:
+### Example:
 
 Input:  route = [ [0,   2, 10],
                   [3,   5,  0],
