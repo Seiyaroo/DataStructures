@@ -1,3 +1,5 @@
+package D1;
+
 public class TwoDeeMatrix {
     // Main Method to run the function
     public static void main(String[] args) {
