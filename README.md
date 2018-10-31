@@ -26,7 +26,9 @@ Input:  route = [ [0,   2, 10],
                   [10, 12, 15],
                   [10, 10,  8] ]
 
-Output: 5  < 5 kWh and the drone would crash before the finish line. More than `5` kWh and it’d end up with excess energy.
+Output: 5  
+
+< 5 kWh and the drone would crash before the finish line. More than `5` kWh and it’d end up with excess energy.
 Constraints:
 
 [time limit] 5000ms
