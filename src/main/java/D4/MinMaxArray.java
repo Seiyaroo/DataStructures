@@ -8,7 +8,7 @@ public class MinMaxArray {
 
 // min = 1
 // max = 9
-    public class void MinMaxArray(int[] arr) {
+    public static void MinMaxArray(int[] arr) {
 
         long min = 0;
         long max = 0;
