@@ -19,10 +19,14 @@ public class sumMatrix {
                 }
             }
         }
-        String result = " " + arr;
-        System.out.println(result);
+        for (int i:arr) {
+            System.out.println(i);
+        }
+//        System.out.println(result);
         return arr;
     }
 }
 
 // Its not printing the final 6, and not sure why? Code is sound, but...maybe not?
+// Output should be -> 2, 4, 4, 2, 6, 8, 8 , 6
+// We currently get -> 2, 4, 4, 2, 6, 8
